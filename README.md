@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <a href="https://www.lqh1008.com">Reborn Plus</a>!</h1>
+<h1 align="center">Hi, I'm Reborn Plus!</h1>
 <h1 align="center">Welcome to my GitHub profile~ QAQ</h1>
 
 <p align="center">
